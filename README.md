@@ -2,6 +2,8 @@
 
 This is a Telegram bot that allows users to download YouTube videos and audio directly through Telegram. The bot uses the `pytubefix` library to fetch video information and `ffmpeg` to handle video and audio merging.
 
+**Works with links from YouTube, and YouTube Music**
+
 ## Features
 
 - Download YouTube videos in various resolutions.
